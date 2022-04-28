@@ -257,7 +257,7 @@ export default {
         },
         backendOptions: [
           { value: "http://127.0.0.1:25500/sub?" },
-          { value: "http://huanglou.rzdbaba.icu:1789//sub?" },
+          { value: "http://huanglou.rzdbaba.icu:1789/sub?" },
           { value: "https://subcon.py6.pw/sub?" },
           { value: "https://subconverter-web.now.sh/sub?" },
           { value: "https://subconverter.herokuapp.com/sub?" },
